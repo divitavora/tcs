@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1007497580860",
+    "firebase_url": "https://imadeo-2f133.firebaseio.com",
+    "project_id": "imadeo-2f133",
+    "storage_bucket": "imadeo-2f133.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007497580860:android:15728a14913c8e61",
+        "android_client_info": {
+          "package_name": "com.example.imadeo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007497580860-btk9kom4ja1lupm8bfaushl6aom3qqdi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.imadeo",
+            "certificate_hash": "c517d9d8c59beb5517e83dbcccf878f1b46cda4d"
+          }
+        },
+        {
+          "client_id": "1007497580860-l0cb8sninruri13fkf1jipdeuj4qd588.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG_GhZhcTpdz_QQhg8hEuk2RRhYRoLqyc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007497580860-l0cb8sninruri13fkf1jipdeuj4qd588.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
